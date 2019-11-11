@@ -1,4 +1,6 @@
-#  Leet :)
+#  Leet :-) Yeet!
+Sometimes your life is just too boring and you started to do leetcode problems.
+
 ## Bitwise operations
 - 29 Divide Two Integers (Medium) 
 
