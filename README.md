@@ -16,3 +16,11 @@
   backwards to find what is the `K-th` character. Again comprehensive testing
   is needed before the submission.
   
+## String manipulation
+- 306 Additive Number (Medium)
+
+  The leading zeros require extra care. Spent tons of time to debug only to 
+  find out I modified a variable inside inner loop by mistake :-(. 
+  I tried to optimize the range of loop but did it wrong at first. 
+  Lesson learnt: do NOT optimize too early.
+
