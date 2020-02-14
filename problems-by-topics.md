@@ -13,10 +13,11 @@ This method is often used on linear structures (array, linked list etc.) to find
 - No-repeat substring
 - Longest substring with same letters after replacement
 - Longest subarray with ones after replacement
-- Binary subarrays with sum
+
 
 ## Two pointers
 
+- [Binary subarrays with sum](binary-subarrays-with-sum.md) (prefix sum)
 - Pair with target sum
 - Remove duplicates
 - Squaring a sorted array
