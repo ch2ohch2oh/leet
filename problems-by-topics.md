@@ -17,7 +17,7 @@ This method is often used on linear structures (array, linked list etc.) to find
 
 ## Two pointers
 
-- [Binary subarrays with sum](binary-subarrays-with-sum.md) (prefix sum)
+- [Binary subarrays with sum](binary-subarrays-with-sum.md) - prefix sum
 - Pair with target sum
 - Remove duplicates
 - Squaring a sorted array
@@ -29,4 +29,5 @@ This method is often used on linear structures (array, linked list etc.) to find
 
 ## Dynamic programming
 
-- [Maximum subrray](maximum-subarray.md) (1D DP)
+- [Maximum subrray](maximum-subarray.md) - 1D DP or two pointers
+
