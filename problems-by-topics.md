@@ -17,7 +17,12 @@ This method is often used on linear structures (array, linked list etc.) to find
 
 ## Two pointers
 
-- [Binary subarrays with sum](binary-subarrays-with-sum.md) - prefix sum
+- [Binary subarrays with sum](binary-subarrays-with-sum.md)
+  Find a continuous subarray that adds up to a target. 
+- [Remove duplicates from sorted array](remove-duplicates-from-sorted-array.md)
+  Easy using two pointers.
+- [Remove duplicates from sorted list](remove-duplicates-from-sorted-list.md)
+  Two pointers on a linked list.
 - Pair with target sum
 - Remove duplicates
 - Squaring a sorted array
@@ -31,3 +36,5 @@ This method is often used on linear structures (array, linked list etc.) to find
 
 - [Maximum subrray](maximum-subarray.md) - 1D DP or two pointers
 
+## Hash table
+- [Two sum](two-sum.md) - Find two numbers within an array that add up to a target.
